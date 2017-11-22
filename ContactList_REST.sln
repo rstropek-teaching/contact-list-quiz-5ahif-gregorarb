@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList_REST", "ContactList_REST\ContactList_REST.csproj", "{901657B2-000B-4B6F-958F-BB35AB78A1B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList_REST.Tests", "ContactList_REST.Tests\ContactList_REST.Tests.csproj", "{168AC428-3FC1-4546-A19E-6BFA431E8B3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{901657B2-000B-4B6F-958F-BB35AB78A1B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{901657B2-000B-4B6F-958F-BB35AB78A1B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{901657B2-000B-4B6F-958F-BB35AB78A1B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{901657B2-000B-4B6F-958F-BB35AB78A1B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C96CE24-DFA0-4656-8CB2-2DC4858EB525}
+	EndGlobalSection
+EndGlobal
