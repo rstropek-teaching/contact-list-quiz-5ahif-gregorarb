@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList_REST", "ContactList_REST\ContactList_REST.csproj", "{901657B2-000B-4B6F-958F-BB35AB78A1B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactList_REST.Tests", "ContactList_REST.Tests\ContactList_REST.Tests.csproj", "{168AC428-3FC1-4546-A19E-6BFA431E8B3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList_REST.Tests", "ContactList_REST.Tests\ContactList_REST.Tests.csproj", "{168AC428-3FC1-4546-A19E-6BFA431E8B3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContactList_MVC", "..\ContactList_MVC\ContactList_MVC\ContactList_MVC.csproj", "{F35A4855-9B53-4023-A977-73886892BB31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{168AC428-3FC1-4546-A19E-6BFA431E8B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35A4855-9B53-4023-A977-73886892BB31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35A4855-9B53-4023-A977-73886892BB31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35A4855-9B53-4023-A977-73886892BB31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35A4855-9B53-4023-A977-73886892BB31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
